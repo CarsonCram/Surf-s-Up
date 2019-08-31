@@ -9,17 +9,17 @@ Surf's Up is a map based application that gives you the best beach to enjoy a da
 
 #### landing page
 
-(/images/Opener.png)
+![landing page](/images/Opener.png)
 
 
 After pressing the "surf" button the user will arrive at a full map of San Diego with static clickable markers that will present them with ratings based on the above formula  
 
-(/images/fullMap.png)
+![full map page](/images/fullMap.png)
 
 
 Upon clicking the marker the user will be zoomed in to the area of the beach where they will be presented with more information including time to arrive, weather conditions, and possibly the formula for the rating.
 
-(/images/zoomedMap.png)
+![zoomed map page](/images/zoomedMap.png)
 
 To-Do's
 -the most important step here is learning and implemetning the maps API so that I can start building custom markers, tracking users, and creating a zoom system on marker click.
