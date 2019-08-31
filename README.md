@@ -6,6 +6,7 @@ Prototype for class project
 
 Surf's Up is a map based application that gives you the best beach to enjoy a day of surfing based on your location and wave quality.
 
+![landing page](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 #### landing page
 
