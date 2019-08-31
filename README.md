@@ -19,7 +19,9 @@ After pressing the "surf" button the user will arrive at a full map of San Diego
 
 Upon clicking the marker the user will be zoomed in to the area of the beach where they will be presented with more information including time to arrive, weather conditions, and possibly the formula for the rating.
 
-![zoomed map page](/images/zoomedMap.png)
+
+![zoomedMap](https://user-images.githubusercontent.com/14228329/64067710-e1547700-cbe1-11e9-859e-f19fe9e6f086.PNG)
+
 
 To-Do's
 -the most important step here is learning and implemetning the maps API so that I can start building custom markers, tracking users, and creating a zoom system on marker click.
