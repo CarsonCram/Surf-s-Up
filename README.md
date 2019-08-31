@@ -6,11 +6,10 @@ Prototype for class project
 
 Surf's Up is a map based application that gives you the best beach to enjoy a day of surfing based on your location and wave quality.
 
-![landing page](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 #### landing page
 
-![landing page](/images/Opener.png)
+![Opener](https://user-images.githubusercontent.com/14228329/64067687-a3575300-cbe1-11e9-93df-9a7cee77f104.PNG)
 
 
 After pressing the "surf" button the user will arrive at a full map of San Diego with static clickable markers that will present them with ratings based on the above formula  
